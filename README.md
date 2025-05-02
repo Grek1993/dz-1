@@ -9,8 +9,7 @@
         <header>
         <span>IT-INCUBATOR</span>
     </header>
-        <section data-cy = "hw1-section-about-pre">      
-        <h1>Шкредов Егор Владимирович</h1>      
+        <section data-cy = "hw1-section-about-pre"<h1>Шкредов Егор Владимирович</h1>>                   
          <p>Работаю в IT-INCUBATOR-е. Люблю HTML,CSS и все , что связанно с frontend разработкой . </p>     
          <img src="./assest/img/img12.jpg" alt="img">
     </section>
